@@ -1,0 +1,17 @@
+ * {
+  box-sizing: border-box;
+  font-family: 'Karla', sans-serif;
+ }
+
+ html {
+    height: 100%;
+ }
+
+ body {
+    padding: 130px;
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);  
+  background-size: auto;
+  display: flex;
+  justify-content: center;
+ }
